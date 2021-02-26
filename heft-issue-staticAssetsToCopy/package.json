@@ -1,0 +1,11 @@
+{
+  "name": "heft-issue-staticassetstocopy",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "heft build --clean --production --lite"
+  },
+  "dependencies": {
+    "@rushstack/heft": "^0.24.2",
+    "typescript": "^4.2.2"
+  }
+}
